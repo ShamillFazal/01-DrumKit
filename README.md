@@ -22,7 +22,7 @@ I did run into a couple of small but annoying problems whilst making the app but
 
   ![Screenshot 2023-08-20 181813](https://github.com/ShamillFazal/01-DrumKit/assets/94766229/3b7afda7-3867-4229-a288-743539ead46d)
 
-  resolved line
+  Resolved line
 
 
   ![Screenshot 2023-08-20 181939](https://github.com/ShamillFazal/01-DrumKit/assets/94766229/e8b65e8e-7001-4ebd-938f-f553d758505a)
@@ -33,7 +33,7 @@ I did run into a couple of small but annoying problems whilst making the app but
 
   ![Screenshot 2023-08-20 222449](https://github.com/ShamillFazal/01-DrumKit/assets/94766229/e13c646c-ba40-4269-b9b3-1a1da4997069)
 
-  correct code
+  Correct code
 
   ![Screenshot 2023-08-20 222459](https://github.com/ShamillFazal/01-DrumKit/assets/94766229/0282ae82-bbc4-49cc-ab1e-e0fa9cd0f34a)
 
